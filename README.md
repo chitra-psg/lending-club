@@ -39,7 +39,8 @@
 
 ## Conclusions
 
-- Major factor to predict the chance of defaulting and to avoid Credit Loss:
+- Major factor to predict the chance of defaulting and to avoid Credit Loss: Purpose, Interest Rate, Purpose, Loan Grade, Loan Amount, Loan Term, Revolving Utilization Rate and Public Bankruptcy ![image](https://user-images.githubusercontent.com/123156671/217592742-f63e2ff2-6a52-4c26-8040-62c9859ccdb9.png)
+
   
 - Other considerations for 'defaults' :
   
